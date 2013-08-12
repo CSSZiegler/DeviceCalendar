@@ -12,3 +12,6 @@ This Application will showcase the following features of Device Calendar APIs
 * Adding a confidential Event
 * Finding an Event
 * Removing an Event
+
+# Supported platforms:
+iPhone and iPad
