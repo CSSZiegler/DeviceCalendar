@@ -13,5 +13,9 @@ This Application will showcase the following features of Device Calendar APIs
 * Removing an Event
 
 # Supported platforms:
-* iPhone
-* iPad
+
+**Mobile**
+ * iPhone
+
+**Tablet** 
+ * iPad
