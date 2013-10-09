@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="DeviceCalendar" id="DeviceCalendar">
+    <container type="form" id="frmFeatures" displayname="Form"/>
+    <container type="form" id="frmCalendar" displayname="Form">
+        <component type="textbox2" id="txtSummary" displayname="TextBox2"/>
+        <component type="calendar" id="calWheelOnScrnStart" displayname="Calendar"/>
+        <component type="calendar" id="calWheelOnScrnFinish" displayname="Calendar"/>
+    </container>
+    <container type="form" id="frmFeatures" displayname="Form"/>
+    <container type="form" id="frmIntro" displayname="Form"/>
+    <container type="form" id="frmRemove" displayname="Form">
+        <component type="calendar" id="calStartTime" displayname="Calendar"/>
+        <component type="calendar" id="calFinishTime" displayname="Calendar"/>
+    </container>
+    <container type="form" id="frmSearch" displayname="Form">
+        <component type="calendar" id="calStartTime" displayname="Calendar"/>
+        <component type="calendar" id="calFinishTime" displayname="Calendar"/>
+    </container>
+    <container type="dialog" id="popAccess" displayname="Popup"/>
+    <container type="dialog" id="popAlarm" displayname="Popup"/>
+    <container type="form" id="frmCalendar" displayname="Form">
+        <component type="textbox2" id="txtSummary" displayname="TextBox2"/>
+        <component type="calendar" id="calStartTime" displayname="Calendar"/>
+        <component type="calendar" id="calFinishTime" displayname="Calendar"/>
+        <component type="calendar" id="calWheelOnScrnStart" displayname="Calendar"/>
+        <component type="calendar" id="calWheelOnScrnFinish" displayname="Calendar"/>
+    </container>
+    <container type="form" id="frmIntro" displayname="Form"/>
+    <container type="dialog" id="popAccess" displayname="Popup"/>
+    <container type="dialog" id="popAlarm" displayname="Popup"/>
+    <globalsequences/>
+    <skins/>
+</application>

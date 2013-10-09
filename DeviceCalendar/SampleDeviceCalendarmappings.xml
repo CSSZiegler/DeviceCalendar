@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="SampleDeviceCalendar" name="SampleDeviceCalendar">
+    <container displayname="Form" id="frmFeatures" type="form"/>
+    <container displayname="Form" id="frmIntro" type="form"/>
+    <container displayname="Form" id="frmCalendar" type="form">
+        <component displayname="TextBox2" id="txtSummary" type="textbox2"/>
+        <component displayname="Calendar" id="calStartTime" type="calendar"/>
+        <component displayname="Calendar" id="calFinishTime" type="calendar"/>
+        <component displayname="Calendar" id="calWheelOnScrnStart" type="calendar"/>
+        <component displayname="Calendar" id="calWheelOnScrnFinish" type="calendar"/>
+    </container>
+    <container displayname="Form" id="frmFeatures" type="form"/>
+    <container displayname="Form" id="frmIntro" type="form"/>
+    <container displayname="Popup" id="popAccess" type="dialog"/>
+    <container displayname="Popup" id="popAlarm" type="dialog"/>
+    <globalsequences/>
+    <skins/>
+</application>
